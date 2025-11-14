@@ -1,113 +1,423 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
 人工智能
-
+AI
+生成式人工智能
+大模型
+大型语言模型
+AI 芯片
+AI 加速器
+GPU
+TPU
+NPU
+类脑计算
+神经形态芯片
+量子计算
+AI 操作系统
+AI 编译器
+AI 推理引擎
+边缘 AI
+AI 云服务
+AI 超算
+AI 架构突破
+AI 新模型发布
+AI 前沿论文
+AI 安全
+AI 监管
+AI 企业动态
+AI 投融资
+AI 开源社区
+AI 算法突破
+多模态模型
+自主智能体
+Agent
+AI 自主科研
+AI 发现新材料
+AI 发现新药
+AI 自动化实验室
 自动驾驶
-
 机器人
+通用人工智能
+AGI
+企业级 AI 产品
+AI 芯片新品发布
+算力市场
+数据中心
+冷却技术
+先进封装
+HBM
+光芯片
+硅光
+光计算
 
-国产
-中国
+生物技术
+生命科学
+生物医药
+合成生物学
+基因工程
+基因编辑
+CRISPR
+碱基编辑
+Prime Editing
+基因治疗
+体细胞编辑
+胚系编辑
+蛋白质工程
+蛋白折叠
+AlphaFold
+AI 设计蛋白质
+AI 设计酶
+AI 设计基因序列
+人造生命
+人工细胞
+虚拟细胞
+类器官
+器官芯片
+干细胞技术
+再生医学
+细胞治疗
+CAR-T
+mRNA 技术
+疫苗平台
+精准医疗
+多组学
+全基因组测序
+单细胞测序
+空间组学
+代谢工程
+微生物工程
+工业生物技术
+生物制造
+生物材料
+生物安全
+双用途风险
+生物伦理
 
-美国
-日本
-韩国
+生物信息学
+计算生物学
+生物数据分析
+AI 生物预测
+AI 药物发现
+AI 药物设计
+虚拟筛选
+分子模拟
+结构生物学
 
-芯片
-光刻机
+生命科学公司
+生物科技企业
+基因编辑公司
+合成生物学公司
+AI 生物公司
+测序公司
+药企新产品发布
+生物公司投融资
+BioTech IPO
 
-科技
+前沿新闻
+科学新闻
+技术突破
+学术突破
+企业动态
+政策更新
+监管变动
+行业趋势
+重大合作
+科研发现
+技术发布会
+新品发布
+科技展会
 
-核能
+高性能计算
+超级计算机
+超大规模集群
+分布式训练
+无线电类脑接口
+脑机接口
+BCI
+神经记录技术
+神经刺激技术
+体外神经生长
+人工大脑
+生物计算
 
-水电站
-雅鲁藏布江
+病原体监测
+公共卫生基因组
+病毒溯源
+变异监测
+流行病学模型
 
-新质生产力
+云实验室
+实验室自动化
+液体处理机器人
+生物数据中心
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+开源大模型
+开源生物模型
+开源基因编辑工具
+
+科技投资
+科技监管
+科技伦理
+全球科技竞争
+
+OpenAI
+Anthropic
+Google DeepMind
+Google Gemini
+Meta AI
+Microsoft AI
+xAI
+Tesla AI
+NVIDIA
+AMD
+Intel
+Qualcomm
+Apple Silicon
+Broadcom
+Cerebras
+Graphcore
+Groq
+FuriosaAI
+Tenstorrent
+SambaNova
+Etched
+Lightmatter
+d-Matrix
+Lambda Labs
+CoreWeave
+Stability AI
+Hugging Face
+Runway
+Perplexity AI
+Mistral AI
+Together AI
+Reka AI
+Databricks Mosaic AI
+Snowflake Cortex
+Amazon AI
+AWS Trainium
+AWS Inferentia
+Alibaba Qwen
+Tencent Hunyuan
+Baidu ERNIE
+ByteDance AI Lab
+SenseTime
+iFlytek
+Horizon Robotics
+Cambricon
+Kunlunxin AI
+Moore Threads
+Birentech
+
+
+AI Chip
+AI Accelerator
+Personal Supercomputer
+Home Supercomputer
+AI Workstation
+AI Server
+GPU Server
+Cluster Node
+AI Cluster
+Distributed Training
+Multi-GPU Rig
+NVLink
+HBM Memory
+Advanced Packaging
+Chiplet
+Optical Interconnect
+Silicon Photonics
+Photonics Computing
+AI Edge Device
+AI Inference Box
+AI Training Rack
+Liquid Cooling
+Immersion Cooling
+Data Center Cooling
+Modular Data Center
+AI Energy Efficiency
+Model Compression
+Quantization
+Sparsity Optimization
+
+
+Synthetic Biology
+Genome Engineering
+Genome Synthesis
+Synthetic Genome
+Minimal Cell
+Cell-Free Systems
+DNA Synthesis
+DNA Foundry
+Biofoundry
+Biomanufacturing
+Metabolic Engineering
+Enzyme Design
+Biocatalysis
+Microbial Factory
+Industrial Biotechnology
+Cell Factory
+Biomaterials
+Biofabrication
+Bioprinting
+Biosecurity
+Bioeconomy
+Biotech Automation
+Cloud Lab
+
+Ginkgo Bioworks
+Twist Bioscience
+Zymergen（已并入 Ginkgo）
+Synthego
+Inscripta
+Benchling
+Arzeda
+Impossible Foods
+Perfect Day
+Modern Meadow
+Cultivated Meat
+Cell-based Food
+
+
+Gene Editing
+CRISPR
+CRISPR Therapeutics
+Editas Medicine
+Intellia Therapeutics
+Beam Therapeutics
+Prime Medicine
+Caribou Biosciences
+Mammoth Biosciences
+Cas12
+Cas13
+Base Editing
+Prime Editing
+Genome Editing Tools
+Off-target Prediction
+
+
+Neuroscience
+Brain Science
+Brain Atlas
+Neural Coding
+Neural Plasticity
+Connectomics
+Brain Mapping
+Neural Interface
+Brain-Computer Interface
+Brain-Machine Interface
+Neural Recording
+Neural Stimulation
+Implantable BCI
+Non-invasive BCI
+fNIRS
+EEG
+ECoG
+Neuromodulation
+Deep Brain Stimulation
+Neural Prosthetics
+Neurotechnology
+
+Neuralink
+Synchron
+Blackrock Neurotech
+Paradromics
+Precision Neuroscience
+Kernel
+CTRL-Labs（Meta 收购）
+Corti Neuroscience
+Inscopix
+Miniscopes
+BrainGate
+Human Brain Project
+BRAIN Initiative
+
+
+Cognitive Science
+Computational Neuroscience
+Neuromorphic Computing
+Spiking Neural Network
+Neural Simulation
+Whole Brain Simulation
+Virtual Brain
+Brain Digital Twin
+Connectome Modeling
+
+IBM TrueNorth
+Intel Loihi
+Stanford Neurogrid
+
+
+Biotechnology
+Life Sciences
+Pharmaceutical
+Drug Discovery
+AI Drug Discovery
+Precision Medicine
+Immunotherapy
+Cancer Genomics
+Single-cell Analysis
+Spatial Biology
+Multi-omics
+Proteomics
+Metabolomics
+Transcriptomics
+Genomics
+Sequencing Technology
+
+Illumina
+Pacific Biosciences
+Oxford Nanopore
+Thermo Fisher
+Agilent
+10x Genomics
+Becton Dickinson
+QIAGEN
+Roche Diagnostics
+Moderna
+BioNTech
+Regeneron
+Amgen
+Genentech
+Novartis
+Pfizer
+AstraZeneca
+Takeda
+Merck
+Sanofi
+GSK
+
+Tech News
+AI News
+Biotech News
+Breakthrough Technology
+Frontier Science
+Emerging Technology
+Research Highlights
+Paper Summary
+Conference Release
+Product Launch
+Keynote Event
+Tech Announcement
+Startup Funding
+Investment Round
+Acquisition
+IPO
+Merger
+Patent Filing
+Regulatory Update
+Policy Change
+Global Competition
+
+Quantum Computing
+Quantum AI
+Robotics
+Automation
+Swarm Robotics
+Bioinspired Robotics
+Space Technology
+Astronomy Discoveries
+Energy Technology
+Clean Energy
+Fusion Energy
+Carbon Capture
+Advanced Materials
+Smart Materials
