@@ -1,8 +1,4 @@
-人工智能
-AI
-生成式人工智能
-大模型
-大型语言模型
+
 AI 芯片
 AI 加速器
 GPU
@@ -11,34 +7,34 @@ NPU
 类脑计算
 神经形态芯片
 量子计算
-AI 操作系统
-AI 编译器
-AI 推理引擎
-边缘 AI
-AI 云服务
-AI 超算
-AI 架构突破
-AI 新模型发布
-AI 前沿论文
-AI 安全
-AI 监管
-AI 企业动态
-AI 投融资
-AI 开源社区
-AI 算法突破
+AI操作系统
+AI编译器
+AI推理引擎
+边缘AI
+AI云服务
+AI超算
+AI架构突破
+AI新模型发布
+AI前沿论文
+AI安全
+AI监管
+AI企业动态
+AI投融资
+AI开源社区
+AI算法突破
 多模态模型
 自主智能体
 Agent
-AI 自主科研
-AI 发现新材料
-AI 发现新药
-AI 自动化实验室
+AI自主科研
+AI发现新材料
+AI发现新药
+AI自动化实验室
 自动驾驶
 机器人
 通用人工智能
 AGI
-企业级 AI 产品
-AI 芯片新品发布
+企业级AI产品
+AI芯片新品发布
 算力市场
 数据中心
 冷却技术
@@ -105,7 +101,7 @@ AI 药物设计
 生物科技企业
 基因编辑公司
 合成生物学公司
-AI 生物公司
+AI生物公司
 测序公司
 药企新产品发布
 生物公司投融资
@@ -162,8 +158,8 @@ OpenAI
 Anthropic
 Google DeepMind
 Google Gemini
-Meta AI
-Microsoft AI
+MetaAI
+MicrosoftAI
 xAI
 Tesla AI
 NVIDIA
@@ -183,16 +179,16 @@ Lightmatter
 d-Matrix
 Lambda Labs
 CoreWeave
-Stability AI
+StabilityAI
 Hugging Face
 Runway
-Perplexity AI
-Mistral AI
-Together AI
-Reka AI
-Databricks Mosaic AI
+Perplexity
+Mistral
+Together
+Reka
+Databricks Mosaic
 Snowflake Cortex
-Amazon AI
+Amazon
 AWS Trainium
 AWS Inferentia
 Alibaba Qwen
@@ -207,9 +203,6 @@ Kunlunxin AI
 Moore Threads
 Birentech
 
-
-AI Chip
-AI Accelerator
 Personal Supercomputer
 Home Supercomputer
 AI Workstation
